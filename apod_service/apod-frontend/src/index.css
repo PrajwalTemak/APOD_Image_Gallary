@@ -1,0 +1,8 @@
+/* src/index.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* small custom styles */
+html,body,#root { height: 100%; }
+body { background: #0b1020; color: #e6eef8; }
